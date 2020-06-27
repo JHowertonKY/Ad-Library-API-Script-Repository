@@ -1,0 +1,1 @@
+python3 fb_ads_library_api_cli.py -t 'EAAEpq3Jd63MBAPshFjSGEP0rLmSmFZCLKbPJa50idtf26DQZCisXPc55jCf7ZCsoSWmqb43ZA47PWmqpkdx8DRx1jYovHmNHgzcPXAnIhCaKV8vNMsAAtz6cSt3kPZAD2W2ZAxWUe92qnMZAq0hZBei5TbvSGbzi6jphCyiZAcj4qnB3C7Hs9IRD8INhLIu1YYq7Dp0ICU3oZCnOZCKAyUr0GR1' -f 'page_id,ad_snapshot_url,funding_entity,ad_delivery_start_time' -c 'US' -s '.' -v count
